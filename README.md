@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**mirasl/mirasl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there ~  
+<b><i>student + hobbyist programmer</b></i>  
+  
+I like creating fun little indie games, making rice, and messing around with other random programs ;P  
+  
+```
+languages = [  
+  java,  
+  python,  
+  lua,  
+  gdscript  
+]  
+  
+pronouns = [  
+  she,  
+  her  
+]  
+```
+  
+"Wouldn't the world be better off if we took nonsense more seriously?" - Marvin  
+  
