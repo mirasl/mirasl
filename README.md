@@ -6,9 +6,10 @@ I like creating fun little indie games, making rice, and messing around with oth
 ```
 languages = [  
   java,  
-  python,  
-  lua,  
-  gdscript  
+  python, 
+  gdscript,  
+  c#,  
+  lua  
 ]  
   
 pronouns = [  
